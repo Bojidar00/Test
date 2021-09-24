@@ -28,7 +28,7 @@ jobs:
       - name: Run a one-line script
         run: |
           
-          npm install,
+          npm install
           npm run serve
           
          
